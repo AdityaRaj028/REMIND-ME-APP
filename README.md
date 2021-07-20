@@ -1,4 +1,4 @@
-# Record - atorio
+# REMIND ME APP
 
 An Everything Reminder App, which allows you to boast about your work as well. 
 
